@@ -1,6 +1,9 @@
 body {
   font-family: 'Open Sans', sans-serif; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300; }
+
 #land {
   background: url("../images/land.jpg");
   background-size: cover;
@@ -30,5 +33,11 @@ body {
       font-weight: 300; }
     #land .welcome-msg p {
       font-size: 1vw; }
+
+#intro {
+  padding: 4em 0 3em 0;
+  color: #717171; }
+  #intro p {
+    padding: 1em 0; }
 
 /*# sourceMappingURL=app.css.map */
