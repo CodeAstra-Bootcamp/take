@@ -85,4 +85,15 @@ h1, h2, h3, h4, h5, h6 {
         #explore .explore-container .explore-content a i {
           margin-left: 1em; }
 
+#reasons {
+  background-color: #82ca9c;
+  color: #fff;
+  padding: 4em 0 3em; }
+  #reasons h2 {
+    font-size: 5rem;
+    margin-bottom: 1em; }
+  #reasons h4 {
+    font-weight: 700;
+    font-size: 1em; }
+
 /*# sourceMappingURL=app.css.map */
