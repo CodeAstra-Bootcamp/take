@@ -65,4 +65,24 @@ h1, h2, h3, h4, h5, h6 {
   #details h2 {
     margin-bottom: 1em; }
 
+#explore {
+  background: url("../images/explore.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  color: #fff; }
+  #explore .explore-container {
+    position: relative;
+    height: 100vh; }
+    #explore .explore-container .explore-content {
+      position: absolute;
+      bottom: 4em; }
+      #explore .explore-container .explore-content h2 {
+        font-size: 4vw; }
+      #explore .explore-container .explore-content p {
+        margin: 1em 0; }
+      #explore .explore-container .explore-content a {
+        color: #fff; }
+        #explore .explore-container .explore-content a i {
+          margin-left: 1em; }
+
 /*# sourceMappingURL=app.css.map */
