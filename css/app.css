@@ -127,4 +127,31 @@ h1, h2, h3, h4, h5, h6 {
     #plans #team-plan .label {
       background-color: #c38cc3; }
 
+footer {
+  background-color: #1a2430;
+  color: #fff;
+  padding: 6em 0 8em; }
+  footer h4 {
+    font-size: 0.9em;
+    font-weight: bold; }
+  footer p {
+    font-size: 0.8em; }
+  footer #contact-form {
+    margin-bottom: 5px; }
+    footer #contact-form input {
+      height: 4em;
+      border-right-color: transparent; }
+    footer #contact-form .form-tick {
+      padding: 0 2em;
+      background-color: #82ca9c; }
+      footer #contact-form .form-tick i {
+        color: #fff; }
+  footer p.hint {
+    font-size: 0.7em;
+    font-weight: 300; }
+  footer ul li {
+    font-size: 0.8em; }
+    footer ul li a, footer ul li a:hover {
+      color: #fff; }
+
 /*# sourceMappingURL=app.css.map */
